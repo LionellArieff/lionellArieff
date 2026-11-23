@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/240394089?v=4" width="132" alt="GitHub profile photo of Arieff" />
 <br/>
-<img src="./assets/profile-header.svg" width="100%" alt="Arieff — warm minimalist portfolio header" />
+<img src="./profile-header.svg" width="100%" alt="Arieff — warm minimalist portfolio header" />
 <br/>
 Informatics Engineering Student · Indonesia
 Building ideas, learning technologies, and turning curiosity into code.
