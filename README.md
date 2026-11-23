@@ -138,7 +138,7 @@ I enjoy learning by creating projects, exploring new technologies, and improving
 
 Learning · Building · Growing
 
-*Designed with a little coffee-inspired warmth.* ☕
+
 
 </font>
 
